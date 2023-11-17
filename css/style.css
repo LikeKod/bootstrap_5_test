@@ -107,6 +107,12 @@ footer {
 }
 /* About course */
 
+/* For who */
+
+.forwhom h5{
+    padding: 50px;
+    border: 3px solid var(--color1);
+}
 
 /* Color1 */
 .color1 {
