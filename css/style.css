@@ -79,7 +79,7 @@ footer {
 }
 
 /* About course */
-.about, .shedule{
+.about, .shedule, .learning{
     background-color: #eee;
 }
 
@@ -121,6 +121,12 @@ footer {
 .accordion-button:not(.collapsed){
     color: var(--bs-white);
     background-color: var(--color2);
+}
+
+/* Learning process */
+.learning h5{
+    padding: 25px;
+    border: 3px solid var(--color1);
 }
 
 /* Color1 */
